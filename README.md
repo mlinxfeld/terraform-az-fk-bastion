@@ -64,7 +64,9 @@ subnets = {
 ```bash
 terraform-az-fk-bastion/
 ├── examples/
-│   └── 01_private_vm_with_bastion_access/
+│   ├── 01_private_vm_with_bastion_access/
+│   ├── 02_private_aks_with_bastion_access/
+│   └── README.md
 ├── main.tf
 ├── inputs.tf
 ├── outputs.tf

@@ -21,6 +21,7 @@ They are part of the **[FoggyKitchen.com training ecosystem](https://foggykitche
 | Example | Title | Key Topics |
 |--------|-------|------------|
 | 01 | **Private VM with Bastion Access** | AzureBastionSubnet, NIC-level NSG, Bastion tunneling |
+| 02 | **Private AKS with Bastion Access** | Private AKS, jump VM, NAT Gateway egress, Bastion tunneling |
 
 Each example introduces **one clear access pattern** and can be applied
 **independently** for learning and reuse.
